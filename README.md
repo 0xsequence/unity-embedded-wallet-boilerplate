@@ -14,6 +14,9 @@ Supported platforms:
 - Web
 
 When building for the web, after building, navigate to the root of your newly built project
+
 `pnpm install`
+
 `pnpm dev`
+
 The app will be running on http://localhost:4444
