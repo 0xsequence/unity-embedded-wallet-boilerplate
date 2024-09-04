@@ -28,5 +28,5 @@ MonoBehaviour:
   WaaSConfigKey: eyJwcm9qZWN0SWQiOjM4NjMzLCJycGNTZXJ2ZXIiOiJodHRwczovL3dhYXMuc2VxdWVuY2UuYXBwIn0=
   EnableMultipleAccountsPerEmail: 0
   BuilderAPIKey: AQAAAAAAAJbpF9Kqs3gI62CfZlpjt7RMMEw
-  StoreSessionPrivateKeyInSecureStorage: 1
+  StoreSessionPrivateKeyInSecureStorage: 0
   EditorStoreSessionPrivateKeyInSecureStorage: 0
