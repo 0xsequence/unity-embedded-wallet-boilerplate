@@ -19,7 +19,12 @@ namespace Game.Scripts
 #elif UNITY_ANDROID && !UNITY_EDITOR
             toDisable.Add(_facebookSignInButton);
             toDisable.Add(_discordSignInButton);
+            toDisable.Add(_appleSignInButton);
 #elif UNITY_WEBGL && !UNITY_EDITOR
+            toDisable.Add(_facebookSignInButton);
+            toDisable.Add(_discordSignInButton);
+            toDisable.Add(_appleSignInButton);
+#elif UNITY_STANDALONE && !UNITY_EDITOR
             toDisable.Add(_facebookSignInButton);
             toDisable.Add(_discordSignInButton);
             toDisable.Add(_appleSignInButton);

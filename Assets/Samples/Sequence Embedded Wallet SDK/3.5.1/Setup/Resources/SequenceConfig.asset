@@ -16,7 +16,7 @@ MonoBehaviour:
   GoogleClientId: 851462432325-n574df6app9c7jlt50g9hvp0rvbj5oj0.apps.googleusercontent.com
   DiscordClientId: 
   FacebookClientId: 
-  AppleClientId: com.horizon.sequence.embeddedwallet.boilerplate
+  AppleClientId: com.horizon.sequence.waas
   GoogleClientIdIOS: 970987756660-tln480mkru9g5du3otto4l90g1gapdmo.apps.googleusercontent.com
   DiscordClientIdIOS: 
   FacebookClientIdIOS: 
