@@ -17,3 +17,5 @@ When building for the web, after building, navigate to the root of your newly bu
 `pnpm install`
 `pnpm dev`
 The app will be running on http://localhost:4444
+
+Don't forget to import TMP Essentials!
