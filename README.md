@@ -1,4 +1,4 @@
-# unity-embedded-wallet-boilerplate
+# Sequence Unity Embedded Wallet Boilerplate
 
 `git clone https://github.com/0xsequence/unity-embedded-wallet-boilerplate.git`
 
