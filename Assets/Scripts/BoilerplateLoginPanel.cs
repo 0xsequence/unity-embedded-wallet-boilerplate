@@ -1,6 +1,10 @@
+using System;
+using System.Threading.Tasks;
 using Sequence.Authentication;
 using Sequence.Demo;
 using Sequence.EmbeddedWallet;
+using Unity.Services.Core;
+using Unity.Services.Core.Environments;
 using UnityEngine;
 
 namespace Game.Scripts
